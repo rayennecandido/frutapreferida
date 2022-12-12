@@ -1,0 +1,37 @@
+h1{
+    color: magenta;
+  }
+  
+  h2{
+    color: cyan;
+  }
+  
+  p{
+    color: green;
+  }
+  
+  img{
+    width: 400px; /Aqui eu modifico a largura/
+  }
+  
+  ol{
+  /list-style: upper-roman;/
+  /list-style: lower-alpha;/
+  }
+  ul{
+  /list-style: circle;/
+  /list-style: square;/
+  }
+  
+  .beneficios{
+    color: orange;
+  }
+  
+  .nao-ordenada{
+    color: green;
+  }
+  
+  .ordenada{
+    color: purple; /Aqui eu modifico a cor/
+    list-style: upper-roman;/Aqui eu modifico o estilo da lista/
+  }
